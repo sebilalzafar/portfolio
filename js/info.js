@@ -10,7 +10,7 @@ const personDetails = {
       address: "Okara, Pakistan",
       nationality: "Pakistani",
       freelance: "Will be Available soon 😉",
-      description: "I'm a Web Designer & Full Stack Developer who is focused on crafting user‑friendly products,  I am passionate about building excellent software using HTML,CSS,JAVASCRPIT and PYTHON(DJANGO)  that improves the lives of those around me."
+      description: "I have been working with Django Python for the past two years, and during that time, I have gained a deep understanding of the framework's inner workings and best practices. I have developed numerous web applications using Django, ranging from simple blogs to complex e-commerce platforms. I am proficient in building custom models, forms, and views, and have experience integrating third-party libraries and APIs. I have also worked with various databases such as SQLite, PostgreSQL, and MySQL and have experience deploying applications to various hosting platforms such as Cpanel and AWS."
     },
     professional: {
       yoe: 2,
